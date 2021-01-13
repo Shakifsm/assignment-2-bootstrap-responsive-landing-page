@@ -1,0 +1,55 @@
+.header{
+    background-color: #FFFBF0;
+}
+main{
+    background-color: white;
+}
+.nav-color{
+    background-color:#FFFBF0 !important;
+}
+.header .logo{
+    width: 300px;
+}
+.header-img img{
+    width: 100%;
+}
+.women img{
+    margin: 0 auto;
+}
+.card-body-color{
+    background-color: white;
+}
+.card-img{
+    background-color: #F1F1F1;
+    padding: 10px 90px;
+    border-radius: 10px;
+    border: none;
+}
+.card-img-first{
+    width: 210px;
+}
+.card-img-second{
+    width: 155px;
+}
+.card-img-third{
+    width: 170px;
+}
+.card-img-fourth{
+    width: 170px;
+}
+.card-img-fith{
+    width: 210px;
+}
+.card-img-sixth{
+    width: 150px;
+}
+.last{
+    margin-top: 100px !important;
+}
+.last img{
+    width: 400px;
+    margin-left: 30px;
+}
+.icon img{
+    width: 50px;
+}
