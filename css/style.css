@@ -25,6 +25,10 @@ main{
     border-radius: 10px;
     border: none;
 }
+.card-footer{
+    background-color: white;
+    border: none;
+}
 .card-img-first{
     width: 210px;
 }
@@ -72,4 +76,32 @@ h3{
     height: 250px;
     background-color:rgba(255, 160, 122, 0.425);
     border-radius: 10px;
+}
+@media ( max-width:688px){
+    .header-img img{
+        width: 80%;
+    }
+    .display{
+        display: block !important;
+        text-align: center !important;
+    }
+    .card-img-fourth{
+        width: 170px;
+    }
+    .card-img{
+        padding: 10px 100px !important;
+    }
+    .last-img{
+        width: 300px !important;
+        margin-left: 0px !important;
+    }
+}
+@media (max-width:992px){
+    .card-img{
+        padding: 10px;
+    }
+    .last-img{
+        width: 350px !important;
+        margin-left: 0px !important;
+    }
 }
