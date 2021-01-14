@@ -53,3 +53,23 @@ main{
 .icon img{
     width: 50px;
 }
+button{
+    background-color: #8EA927 !important;
+    color: white !important;
+    border: none !important;
+}
+h1{
+    color: #363958;
+    text-transform: uppercase;
+}
+h5{
+    color: #363958;
+}
+h3{
+    color: #FABE4C;
+}
+.subscribe{
+    height: 250px;
+    background-color:rgba(255, 160, 122, 0.425);
+    border-radius: 10px;
+}
